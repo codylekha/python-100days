@@ -1,0 +1,12 @@
+3 + 4
+7  - 3
+3 * 2
+6 / 3
+2 ** 3
+ 
+
+PEMDAS LR(Left to Right)
+Parathesis ()
+Exponent **
+Multiplication *   Division /  */ samepriority
+Addition + Subtraction -   +- samepriority
